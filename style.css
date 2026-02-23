@@ -13,7 +13,7 @@
  nav{
     background-color: #D19FEB;
  }
- /* ====== GENERAL STYLES ====== */
+ 
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;
@@ -21,9 +21,9 @@ body {
     text-align: center;
 }
 
-/* ====== HEADER ====== */
+
 header {
-    background-color: #D19FEB; /* Your custom color */
+    background-color: #D19FEB; 
     color: white;
     padding: 40px 20px;
 }
